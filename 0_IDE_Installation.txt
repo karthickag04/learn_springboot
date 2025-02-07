@@ -1,0 +1,31 @@
+IDE Installation 
+------------------
+STS
+VSCODE
+ECLIPSE EE
+INTELIJ IDE
+---------------------------
+Maveen download
+
+- > download Binary zip archive
+- > extract and save it / relocate it to c: drive
+
+- > add bin folder to environmental path (C:\apache-maven-3.9.9\bin)
+to verify check cmd as (mvn --version) it will show below message
+
+(Apache Maven 3.9.9 (8e8579a9e76f7d015ee5ec7bfcdc97d260186937)
+Maven home: C:\apache-maven-3.9.9
+Java version: 23.0.2, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk-23
+Default locale: en_IN, platform encoding: UTF-8
+OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+)
+
+
+--------------------------
+
+for VSCODE configuration
+
+under extension install all the extension namely under these company
+java (oracle | Microsoft)
+spring (ms | VMWARE)
+maveen (MS | redhat)
