@@ -1,0 +1,52 @@
+/* Basic reset */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    height: 100%;
+}
+
+/* Centering the nav menu */
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    background-color: #333;
+}
+
+/* Styling the menu */
+.nav-menu {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-menu li {
+    margin: 0 15px;
+}
+
+.nav-menu a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: color 0.3s ease;
+}
+
+.nav-menu a:hover {
+    color: #f0a500;
+}
+
+    
+    h1,h2 {
+      color: rgb(0, 0, 255);
+    }
+
+    ul, ol {
+      font-size: 1.2em;
+    }
+
+    li {
+      color: #555;
+    }
