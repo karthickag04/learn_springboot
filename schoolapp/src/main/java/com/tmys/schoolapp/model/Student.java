@@ -17,7 +17,7 @@ public class Student {
     private String name;
     private String email;
     private String course;
-
+    
     public Student() {}
 
     public Student(String name, String email, String course) {
@@ -57,4 +57,6 @@ public class Student {
     public void setCourse(String course) {
         this.course = course;
     }
+
+   
 }
