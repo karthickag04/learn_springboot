@@ -1,3 +1,7 @@
 
 Spring Boot + JSP + Hibernate (via Spring Data JPA)
 https://chatgpt.com/share/679e03e2-9414-800b-96e6-c34942f60cd2
+
+
+Alternate Implementation logic of Combining two JSP files
+https://chatgpt.com/share/67d95414-6944-800b-b51c-de6325ae6e13
