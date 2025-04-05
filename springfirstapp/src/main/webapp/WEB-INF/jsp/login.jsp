@@ -20,12 +20,20 @@
             <li><a href="/register">Register</a></li>
         </ul>
     </nav>
+<div class="form-container-parent">
+    <div class="form-container">
+    <h2>Login</h2>
+    <form action="/login" method="POST">
+      <label for="usernameOrEmail">Username or Email</label>
+      <input type="text" id="usernameOrEmail" name="usernameOrEmail" required />
 
-    <!-- Home Section -->
-    <section id="home">
-        <h1>Welcome to Our Website</h1>
-        <p>This is the home page. We are glad to have you here.</p>
-    </section>
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" required />
+
+      <button type="submit">Login</button>
+    </form>
+  </div>
+  </div>
 
 </body>
 </html>

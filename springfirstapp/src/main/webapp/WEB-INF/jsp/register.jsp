@@ -6,7 +6,7 @@
     <title>Home - Website</title>
     <link rel="stylesheet" href="/css/styles.css"> <!-- Link to your CSS file -->
 </head>
-<body>
+<body >
 
     <!-- Navigation Menu -->
     <nav>
@@ -20,12 +20,22 @@
             <li><a href="/register">Register</a></li>
         </ul>
     </nav>
+<div class="form-container-parent">
+   <div class="form-container">
+    <h2>Register</h2>
+    <form action="/register" method="POST">
+      <label for="username">Username</label>
+      <input type="text" id="username" name="username" required />
 
-    <!-- Home Section -->
-    <section id="home">
-        <h1>Welcome to Our Website</h1>
-        <p>This is the home page. We are glad to have you here.</p>
-    </section>
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required />
 
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" required />
+
+      <button type="submit">Register</button>
+    </form>
+  </div>
+</div>
 </body>
 </html>
