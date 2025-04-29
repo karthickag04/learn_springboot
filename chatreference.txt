@@ -20,3 +20,7 @@ https://chatgpt.com/share/67f909eb-67e8-800b-bfd0-af16712e2623
 
 Complete E-Commerce Site for mobile product - chat conversation
 https://chatgpt.com/share/680b4241-f248-800b-acbc-321520f820fd
+
+
+Complete conversation about JSTl and its usage under JSP - for Jakarta
+https://chatgpt.com/share/68108928-223c-800b-8c17-a9e1caef51cc
