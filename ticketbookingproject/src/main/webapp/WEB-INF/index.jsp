@@ -12,7 +12,7 @@
 
 	<h1>Welcome to My Web Application</h1>
 
-
+	<!-- added logic -->
     <h2>Fruits List:</h2>
 	<ul>
 		<c:forEach var="fruit" items="${fruits}">
