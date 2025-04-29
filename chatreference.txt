@@ -13,3 +13,14 @@ https://chatgpt.com/share/67d968e5-b734-800b-a54c-9e0322ef1b35
 
 Spring Boot + JSP + Hibernate (via Spring Data JPA) - springfirstapp - login and register implementation
 https://chatgpt.com/share/67f12ef5-1494-800b-b7cc-b7ad2f543cba
+
+above chat extended with account type logic implementation
+https://chatgpt.com/share/67f909eb-67e8-800b-bfd0-af16712e2623
+
+
+Complete E-Commerce Site for mobile product - chat conversation
+https://chatgpt.com/share/680b4241-f248-800b-acbc-321520f820fd
+
+
+Complete conversation about JSTl and its usage under JSP - for Jakarta
+https://chatgpt.com/share/68108928-223c-800b-8c17-a9e1caef51cc
