@@ -24,3 +24,12 @@ https://chatgpt.com/share/680b4241-f248-800b-acbc-321520f820fd
 
 Complete conversation about JSTl and its usage under JSP - for Jakarta
 https://chatgpt.com/share/68108928-223c-800b-8c17-a9e1caef51cc
+
+
+Complete conversation about @Controller vs @RestController using postman
+https://chatgpt.com/share/681b0d77-5cdc-800b-be9c-b0456eb0a062
+second conversation about above topic for installation of postman
+https://chatgpt.com/share/681b0dc2-bf1c-800b-ad0a-d1653e6e5286
+
+
+
