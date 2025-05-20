@@ -9,11 +9,6 @@
 </head>
 <body>
 <div class="container mt-5">
-<h2>Welcome, ${student.name}!</h2>
-<p>Email: ${student.email}</p>
-<p>Course: ${student.course}</p>
-<a href="/students/logout">Logout</a>
-
     <h1 class="mb-4">Students</h1>
     <a href="/students/new" class="btn btn-primary mb-3">Add New Student</a>
     <table class="table table-bordered">
@@ -34,7 +29,7 @@
                     <td>${student.email}</td>
                     <td>${student.course}</td>
                     <td>
-                        "/students/edit/${student.id}"<a href="/students/edit/${student.id}" class="btn btn-warning btn-sm">Edit</a>
+                        <a href="/students/edit/${student.id}" class="btn btn-warning btn-sm">Edit</a>
                         <a href="/students/delete/${student.id}" class="btn btn-danger btn-sm">Delete</a>
                     </td>
                 </tr>

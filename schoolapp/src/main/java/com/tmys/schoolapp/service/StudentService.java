@@ -20,6 +20,10 @@ public class StudentService {
     public Student getStudentById(Long id) {
         return studentRepository.findById(id).orElse(null);
     }
+    
+ 
+
+ 
 
     public Student saveStudent(Student student) {
         return studentRepository.save(student);
@@ -28,4 +32,20 @@ public class StudentService {
     public void deleteStudent(Long id) {
         studentRepository.deleteById(id);
     }
+    
+    
+    
+    
+    public String registerStudent(Student student) {
+        if (studentRepository.existsByEmail(student.getEmail())) {
+            return "Email already registered!";
+        }
+        studentRepository.save(student);
+        return "Student registered successfully!";
+    }
+    
+    public Student login(String email, String password) {
+        return studentRepository.findByEmailAndPassword(email, password);
+    }
+
 }
