@@ -1,3 +1,7 @@
+
+Conversation on JSP with Expression and JSP with MYSQL usage
+https://chatgpt.com/share/6846c332-e5ac-800b-92bf-c291022e5451
+
 Conversation for Eclipse and Tomcat Installation and configuration 
 https://chatgpt.com/share/6842c631-e318-800b-ada7-41b6f4677544
 
