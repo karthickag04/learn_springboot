@@ -32,6 +32,8 @@ https://chatgpt.com/share/681c5648-42d4-800b-9e57-c48a62c000de
 above chat extended with account type logic implementation
 https://chatgpt.com/share/67f909eb-67e8-800b-bfd0-af16712e2623
 
+admin registration and login implementation on the existing
+https://chatgpt.com/share/68a70a21-ddbc-800b-b41d-6822188a1d19
 
 Complete E-Commerce Site for mobile product - chat conversation
 https://chatgpt.com/share/680b4241-f248-800b-acbc-321520f820fd
