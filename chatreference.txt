@@ -1,3 +1,6 @@
+project creation under sts and using JSP page and shared header/footer/navbar creation logic with jstl usecase
+https://chatgpt.com/share/69a7cf44-ebe0-800b-91ca-fdd8e59356b9
+
 food donation web app workflow
 https://chatgpt.com/share/69a53164-95d8-800b-a3ac-16f74a83fcc8
 
