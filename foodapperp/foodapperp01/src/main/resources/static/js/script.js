@@ -1,0 +1,1 @@
+alert("Welcome to FoodApp! Explore our delicious menu and order your favorite meals with ease. Enjoy a seamless dining experience with us!");
