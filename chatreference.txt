@@ -1,4 +1,4 @@
-data jpa with mysql with jsp for registeration and login
+data jpa with mysql with jsp for registeration and login (CRUD)
 https://chatgpt.com/share/69b25b1d-93bc-800b-a112-6668b8b01edb
 
 data jpa with mysql with jsp for registeration alone
