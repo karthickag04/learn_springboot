@@ -1,3 +1,6 @@
+Creating new project under sts tool
+https://chatgpt.com/share/6a3a8a65-a948-83ee-a0bc-f6ebc22c4b78
+
 Auth implementation
 https://chatgpt.com/share/69b3b936-24e0-800b-974b-a69bdf7a368a
 
