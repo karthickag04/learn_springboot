@@ -1,0 +1,144 @@
+/* ===========================
+   Reset
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* ===========================
+   Body
+=========================== */
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f4f4f4;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    height:100vh;
+}
+
+/* ===========================
+   Form Container
+=========================== */
+
+form{
+    width:350px;
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:10px;
+
+    box-shadow:0 0 15px rgba(0,0,0,0.2);
+}
+
+/* ===========================
+   Heading
+=========================== */
+
+h2{
+    position:absolute;
+    top:120px;
+
+    color:#333;
+
+    font-size:28px;
+}
+
+/* ===========================
+   Labels (Plain Text)
+=========================== */
+
+form{
+    color:#444;
+
+    font-size:16px;
+
+    font-weight:bold;
+}
+
+/* ===========================
+   Textbox
+=========================== */
+
+input[type="text"],
+input[type="password"],
+input[type="email"]{
+
+    width:100%;
+
+    padding:10px;
+
+    margin-top:8px;
+
+    border:1px solid #ccc;
+
+    border-radius:5px;
+
+    font-size:15px;
+}
+
+/* ===========================
+   Focus Effect
+=========================== */
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus{
+
+    outline:none;
+
+    border:1px solid dodgerblue;
+
+    box-shadow:0 0 5px rgba(30,144,255,.5);
+}
+
+/* ===========================
+   Submit Button
+=========================== */
+
+input[type="submit"]{
+
+    width:100%;
+
+    padding:12px;
+
+    background:#007bff;
+
+    color:white;
+
+    border:none;
+
+    border-radius:5px;
+
+    cursor:pointer;
+
+    font-size:16px;
+
+    transition:0.3s;
+}
+
+/* ===========================
+   Hover
+=========================== */
+
+input[type="submit"]:hover{
+
+    background:#0056b3;
+}
+
+/* ===========================
+   Active
+=========================== */
+
+input[type="submit"]:active{
+
+    transform:scale(0.98);
+}
