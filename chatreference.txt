@@ -4,6 +4,8 @@ Creating new project under sts tool with only register page
 https://chatgpt.com/share/6a466824-4c5c-83ee-9311-1d9c69208a61
 using register page to save data under mysql - only registration
 https://chatgpt.com/share/6a4fa14c-5c4c-83e8-a831-5394f379dc8c
+using login page to check user data from mysql - it has registration and login at bottom
+https://chatgpt.com/share/6a56389c-433c-83e8-82ad-ee49d1a92473
 
 Auth implementation
 https://chatgpt.com/share/69b3b936-24e0-800b-974b-a69bdf7a368a
