@@ -6,6 +6,13 @@ using register page to save data under mysql - only registration
 https://chatgpt.com/share/6a4fa14c-5c4c-83e8-a831-5394f379dc8c
 using login page to check user data from mysql - it has registration and login at bottom
 https://chatgpt.com/share/6a56389c-433c-83e8-82ad-ee49d1a92473
+adding menus to the project
+https://chatgpt.com/share/6a58dc65-5ef8-83ee-aef5-34e8b16c267b
+using java inside jsp using expression,scriptlet,declaration tag and also passing values by storing in httprequest and retriving from httprequest using setAttribute and getAttribute methods
+https://chatgpt.com/share/6a58dca8-b4a0-83e8-9613-d5e19eb86bc5
+
+
+
 
 Auth implementation
 https://chatgpt.com/share/69b3b936-24e0-800b-974b-a69bdf7a368a
