@@ -12,6 +12,8 @@ using java inside jsp using expression,scriptlet,declaration tag and also passin
 https://chatgpt.com/share/6a58dca8-b4a0-83e8-9613-d5e19eb86bc5
 using CRUD - Select and Delete implementation after register and logic
 https://chatgpt.com/share/6a5e2254-f878-83ee-a87c-7e0aabc791c7
+using CRUD - separating Admin, user workflow with different jsp pages and also implemented logout and url route checking based on session storage
+https://chatgpt.com/share/6a60c5c2-227c-83ee-b7a8-ed1e799fde86
 
 
 
