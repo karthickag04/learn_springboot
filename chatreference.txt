@@ -16,6 +16,10 @@ using CRUD - separating Admin, user workflow with different jsp pages and also i
 https://chatgpt.com/share/6a60c5c2-227c-83ee-b7a8-ed1e799fde86
 
 
+Complete college management system workflow
+https://chatgpt.com/share/6a621819-4b58-83ee-a179-64e0fd68b0ed
+
+
 
 Auth implementation
 https://chatgpt.com/share/69b3b936-24e0-800b-974b-a69bdf7a368a
